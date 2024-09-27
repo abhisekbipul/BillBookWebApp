@@ -1,0 +1,39 @@
+﻿
+@model List<Sales>
+
+<h2>Sales</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Invoice ID</th>
+            <th>Customer Name</th>
+            <th>Date</th>
+            <th>HSN</th>
+            <th>Particulars</th>
+            <th>Quantity</th>
+            <th>Rate</th>
+            <th>Value</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model)
+        {
+            <tr>
+                <td>@sale.InvoiceId</td>
+                <td>@sale.CustomerName</td>
+                <td>@sale.Date.ToShortDateString()</td>
+                <td>@sale.HSN</td>
+                <td>@sale.Particulars</td>
+                <td>@sale.Quantity</td>
+                <td>@sale.Rate</td>
+                <td>@sale.Value</td>
+                <td>
+                    <a href="@Url.Action("Details", "Sales", new { id = sale.InvoiceId })">Details</a> |
+                    <a href="@Url.Action("DownloadInvoice", "Sales", new { id = sale.InvoiceId })">Download Invoice</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

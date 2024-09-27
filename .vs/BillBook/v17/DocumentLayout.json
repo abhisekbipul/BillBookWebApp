@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\sales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\sales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\otprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\otprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\auth\\requestotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\auth\\requestotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\auth\\validateotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\auth\\validateotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\auth\\otpsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\auth\\otpsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\views\\auth\\otpsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\views\\auth\\otpsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|c:\\users\\lenovo\\source\\repos\\billbook\\billbook\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310D6151-2379-4350-90BC-4A41292CCCBC}|BillBook\\BillBook.csproj|solutionrelative:billbook\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 766,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Sales\\Details.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Sales\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Sales\\Details.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Sales\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:55:16.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:50:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\Sales.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\Sales.cs",
+              "RelativeToolTip": "BillBook\\Models\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:18:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "BillBook\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "BillBook\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:17:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\RequestOtp.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Auth\\RequestOtp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\RequestOtp.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Auth\\RequestOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T11:50:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BillBook\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BillBook\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA7wEUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:36:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\User.cs",
+              "RelativeToolTip": "BillBook\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:31:15.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpVerificationModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\OtpVerificationModel.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\OtpVerificationModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\OtpVerificationModel.cs",
+              "RelativeToolTip": "BillBook\\Models\\OtpVerificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:32:36.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OtpRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\OtpRequestModel.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\OtpRequestModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\OtpRequestModel.cs",
+              "RelativeToolTip": "BillBook\\Models\\OtpRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:32:19.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "BillBook\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:33:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidateOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\ValidateOtp.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Auth\\ValidateOtp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\ValidateOtp.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Auth\\ValidateOtp.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:46:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OtpSent.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\OtpSent.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Auth\\OtpSent.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\OtpSent.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Auth\\OtpSent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T11:52:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T11:54:09.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OtpSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\OtpSuccess.cshtml",
+              "RelativeDocumentMoniker": "BillBook\\Views\\Auth\\OtpSuccess.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Views\\Auth\\OtpSuccess.cshtml",
+              "RelativeToolTip": "BillBook\\Views\\Auth\\OtpSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:47:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Program.cs",
+              "RelativeDocumentMoniker": "BillBook\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Program.cs",
+              "RelativeToolTip": "BillBook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:25:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\appsettings.json",
+              "RelativeDocumentMoniker": "BillBook\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\appsettings.json",
+              "RelativeToolTip": "BillBook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T08:25:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "BillBook\\Models\\InvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:31:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "BillBook\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\Models\\Invoice.cs",
+              "RelativeToolTip": "BillBook\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:31:39.261Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

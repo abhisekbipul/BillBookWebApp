@@ -1,0 +1,22 @@
+﻿
+@model OtpVerificationModel
+
+@{
+    ViewData["Title"] = "Validate OTP";
+}
+
+<h2>Validate OTP</h2>
+
+<form asp-action="ValidateOtp" method="post">
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Otp"></label>
+        <input asp-for="Otp" class="form-control" />
+        <span asp-validation-for="Otp" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Validate OTP</button>
+</form>

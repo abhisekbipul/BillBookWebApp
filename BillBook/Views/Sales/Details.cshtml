@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Sales
+
+<h2>Sale Details</h2>
+
+<table class="table">
+    <tr>
+        <th>Invoice ID:</th>
+        <td>@Model.InvoiceId</td>
+    </tr>
+    <tr>
+        <th>Customer Name:</th>
+        <td>@Model.CustomerName</td>
+    </tr>
+    <tr>
+        <th>Date:</th>
+        <td>@Model.Date.ToShortDateString()</td>
+    </tr>
+    <tr>
+        <th>HSN:</th>
+        <td>@Model.HSN</td>
+    </tr>
+    <tr>
+        <th>Particulars:</th>
+        <td>@Model.Particulars</td>
+    </tr>
+    <tr>
+        <th>Quantity:</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Rate:</th>
+        <td>@Model.Rate</td>
+    </tr>
+    <tr>
+        <th>Value:</th>
+        <td>@Model.Value</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("Index", "Sales")">Back to Sales List</a>
+<a href="@Url.Action("DownloadInvoice", "Sales", new { id = Model.InvoiceId })">Download Invoice</a>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMPMmUPUqc8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Source\\Repos\\BillBook\\BillBook\\BillBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
