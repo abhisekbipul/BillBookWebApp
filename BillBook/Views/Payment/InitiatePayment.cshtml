@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+}
+
+<h2>Payment</h2>
+
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+<script>
+    function payNow() {
+        var options = {
+            "key": "rzp_test_Kl7588Yie2yJTV", // Enter the Key ID generated from the Dashboard
+            "amount": "@(ViewBag.Amount * 100)", // Amount is in currency subunits. Default currency is INR. Hence, 100 = INR 1
+            "currency": "INR",
+            "name": "Your Company Name",
+            "description": "Invoice - @ViewBag.InvoiceId",
+            "image": "https://example.com/your_logo", // Replace with your logo URL
+            "order_id": "@ViewBag.OrderId", // This is the order ID created by Razorpay
+            "handler": function (response) {
+                // This function will be called after payment is successful
+                alert("Payment successful! Payment ID: " + response.razorpay_payment_id);
+                // Optionally, you can redirect to a success page or send payment details to your backend
+            },
+            "theme": {
+                "color": "#3399cc"
+            }
+        };
+        var rzp1 = new Razorpay(options);
+        rzp1.open();
+    }
+</script>
+
+<button class="btn btn-primary" onclick="payNow()">Pay Now</button>

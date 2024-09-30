@@ -32,6 +32,8 @@
                 <td>
                     <a href="@Url.Action("Details", "Sales", new { id = sale.InvoiceId })">Details</a> |
                     <a href="@Url.Action("DownloadInvoice", "Sales", new { id = sale.InvoiceId })">Download Invoice</a>
+                    <a href="@Url.Action("InitiatePayment", "Payment", new { amount = sale.Value, invoiceId = sale.InvoiceId })" class="btn btn-primary">Pay Now</a>
+
                 </td>
             </tr>
         }
